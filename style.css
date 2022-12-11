@@ -1,0 +1,12 @@
+.header{
+    font-size: 30px;
+}
+#webcam,#result{
+    border: 5px dotted palevioletred; 
+    width: 350px ;
+    height: 250px;
+
+}
+html,body{
+    background-color: aquamarine;
+}
